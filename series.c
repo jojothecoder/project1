@@ -31,7 +31,3 @@ scanf("%d", &n);
 	printf("%.4f", Series(x, n));
 	return 0;
 }
-
-// sadasd
-// adasd
-// asdaasd
